@@ -1,0 +1,20 @@
+.heading{
+        font-family: "Sofia",sans-serif;font-size: 45px;
+        color:red;
+        font-weight: bold;
+        padding:10px;
+        background-image: url("/src/components/Assets/cover.jpeg");
+}
+
+
+
+.grids{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(12rem,16rem));
+    gap:2rem;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+
+}
