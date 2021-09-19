@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ammazonereact/static/css/main.c53dcdaa.chunk.css",
+    "main.js": "/ammazonereact/static/js/main.4210d62e.chunk.js",
+    "main.js.map": "/ammazonereact/static/js/main.4210d62e.chunk.js.map",
+    "runtime-main.js": "/ammazonereact/static/js/runtime-main.9014bebf.js",
+    "runtime-main.js.map": "/ammazonereact/static/js/runtime-main.9014bebf.js.map",
+    "static/js/2.637f6cfe.chunk.js": "/ammazonereact/static/js/2.637f6cfe.chunk.js",
+    "static/js/2.637f6cfe.chunk.js.map": "/ammazonereact/static/js/2.637f6cfe.chunk.js.map",
+    "static/js/3.b0abe7a4.chunk.js": "/ammazonereact/static/js/3.b0abe7a4.chunk.js",
+    "static/js/3.b0abe7a4.chunk.js.map": "/ammazonereact/static/js/3.b0abe7a4.chunk.js.map",
+    "index.html": "/ammazonereact/index.html",
+    "static/css/main.c53dcdaa.chunk.css.map": "/ammazonereact/static/css/main.c53dcdaa.chunk.css.map",
+    "static/js/2.637f6cfe.chunk.js.LICENSE.txt": "/ammazonereact/static/js/2.637f6cfe.chunk.js.LICENSE.txt",
+    "static/media/ammazone2.73132ec4.jpg": "/ammazonereact/static/media/ammazone2.73132ec4.jpg",
+    "static/media/ctable.76bd5584.jpeg": "/ammazonereact/static/media/ctable.76bd5584.jpeg",
+    "static/media/cupboard1.be60a0d0.jpeg": "/ammazonereact/static/media/cupboard1.be60a0d0.jpeg",
+    "static/media/home.c7f10ff6.jpg": "/ammazonereact/static/media/home.c7f10ff6.jpg",
+    "static/media/laptop.10704dd6.png": "/ammazonereact/static/media/laptop.10704dd6.png",
+    "static/media/laptop.bdc3f59a.jpeg": "/ammazonereact/static/media/laptop.bdc3f59a.jpeg",
+    "static/media/laptop1.2b2935be.jpeg": "/ammazonereact/static/media/laptop1.2b2935be.jpeg",
+    "static/media/laptop2.0e4ae9b1.jpeg": "/ammazonereact/static/media/laptop2.0e4ae9b1.jpeg",
+    "static/media/laptop3.e2326f04.jpeg": "/ammazonereact/static/media/laptop3.e2326f04.jpeg",
+    "static/media/Navbar.css": "/ammazonereact/static/media/mains.19c9784f.jpg",
+    "static/media/phone.dcddf236.png": "/ammazonereact/static/media/phone.dcddf236.png",
+    "static/media/sofa.c549c355.jpeg": "/ammazonereact/static/media/sofa.c549c355.jpeg",
+    "static/media/tvset.8354da48.jpeg": "/ammazonereact/static/media/tvset.8354da48.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9014bebf.js",
+    "static/js/2.637f6cfe.chunk.js",
+    "static/css/main.c53dcdaa.chunk.css",
+    "static/js/main.4210d62e.chunk.js"
+  ]
+}
